@@ -1,0 +1,1 @@
+$("select").selectric();var swiperSlider=new Swiper(".swiper-container",{nextButton:".swiper-button-next",prevButton:".swiper-button-prev",spaceBetween:30,loop:!0,slidesPerView:2});
